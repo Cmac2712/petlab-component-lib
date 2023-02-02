@@ -1,6 +1,6 @@
 {
   "name": "@cmac61805/header",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "type": "module",
   "types": "./main.d.ts",
   "scripts": {
